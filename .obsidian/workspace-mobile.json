@@ -180,9 +180,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "8d57f44f4ac69285",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +209,11 @@
   },
   "active": "fa66cdda1fda69e1",
   "lastOpenFiles": [
+    "/SyncTest.md",
+    "/Pasted image 20260615032034.png",
+    "/Pasted image 20260615032032.png",
+    "/Pasted image 20260615032031.png",
+    "/Pasted image 20260615032029.png",
     "Neural networks(1).pdf",
     "Ggg.md",
     "SyncTest2.md",

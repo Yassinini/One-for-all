@@ -4,74 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "791917f7547ba2ae",
+        "id": "66c20d05222be14f",
         "type": "tabs",
         "children": [
           {
-            "id": "be2a839c19b4019e",
+            "id": "e50fd7811870dd39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Properties of Limits"
-            }
-          },
-          {
-            "id": "b615fba39286a466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Limits/1.4 One Sided Limits/1.4 One sided Limits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 One sided Limits"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "875dc1c68e5e02b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "502c2a396605b07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "c623561db6dd82ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 Properties of Limits"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits/1.1 Limits.md",
-                "linksCollapsed": false,
+                "file": "README.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.1 Limits"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -206,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits/1.1 Limits.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.1 Limits"
+              "title": "Outline of README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -235,28 +185,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b615fba39286a466",
+  "active": "e50fd7811870dd39",
   "lastOpenFiles": [
-    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
-    "Calculus/Limits/1.4 One Sided Limits/1.4 One sided Limits.md",
-    "Calculus/Limits/1.4 One Sided Limits",
+    "Calculus/Index.md",
+    "README.md",
     "Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
     "Calculus/Limits/1.3 Properties of Limits/Handwritten Notes.pdf",
+    "Calculus/Limits/1.3 Properties of Limits/Examples+Solving.pdf",
+    "Calculus/Main_Book.pdf",
+    "Coding-Interview uni/programming-language-resources.md",
+    "Coding-Interview uni/Study Checklist.md",
+    "Coding-Interview uni/Overview.md",
+    "Examples-&-Solving.pdf.md",
+    "Main_Book.pdf.md",
+    "Handwritten.md",
+    "Calculus/Limits/1.4 One Sided Limits/1.4 One sided Limits.md",
+    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
+    "Calculus/Limits/1.1 Intro to Limits/Solving.pdf",
     "Calculus/Limits/1.1 Intro to Limits/Handwritten.pdf",
     "Calculus/Limits/1.2 Epsilon-Delta Limits/1.2 Epsilon-Delta.md",
-    "Calculus/Limits/1.1 Intro to Limits/Solving.pdf",
-    "Handwritten.md",
-    "Calculus/Index.md",
+    "Calculus/Limits/1.4 One Sided Limits",
     "Calculus/Limits/1.3 Properties of Limits",
     "Calculus/Limits/1.2 Epsilon-Delta Limits",
-    "Calculus/Main Book.pdf",
     "Linear Algebra/Intro to Applied Linear Algebra.pdf",
     "Solving.md",
-    "Coding-Interview uni/Overview.md",
     "Calculus/Limits/1.1 Intro to Limits",
-    "Coding-Interview uni/programming-language-resources.md",
-    "Coding-Interview uni/Study Guide.md",
-    "Calculus/Limits",
     "Synctest tab.md",
     "Ggg.md",
     "Pasted image 20260615032029.png",

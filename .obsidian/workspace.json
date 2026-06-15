@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a260a77bc1f1ea52",
+        "id": "143f5811d875c107",
         "type": "tabs",
         "children": [
           {
-            "id": "b45afa29b799962d",
+            "id": "2331bbaba2f6fb7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-language-resources.md",
+                "file": "Calculus/Limits/1.1 Limits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "programming-language-resources"
-            }
-          },
-          {
-            "id": "dc3ee1c89dd334fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Plan.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Plan"
+              "title": "1.1 Limits"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9f72dc072e18b465",
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Calculus/Limits/1.1 Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 1.1 Limits"
             }
           },
           {
@@ -172,21 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Plan.md",
+                "file": "Calculus/Limits/1.1 Limits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Plan"
+              "title": "Outline of 1.1 Limits"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,17 +185,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc3ee1c89dd334fa",
+  "active": "2331bbaba2f6fb7d",
   "lastOpenFiles": [
-    "Overview.md",
-    "programming-language-resources.md",
-    "Study Plan.md",
+    "Coding-Interview uni/Overview.md",
+    "Calculus/Limits/1.1 Limits.md",
+    "Coding-Interview uni/programming-language-resources.md",
+    "Coding-Interview uni/Study Guide.md",
+    "Calculus/Limits",
+    "Untitled",
+    "Machine-Learning",
+    "Linear Algebra",
+    "Calculus",
+    "Coding-Interview uni",
     "Coding-InterviewUni",
-    "cheat sheets/Cpp_reference.pdf",
-    "cheat sheets/bits-cheat-sheet.pdf",
+    "Coding-Interview uni/cheat sheets/Cpp_reference.pdf",
+    "Coding-Interview uni/cheat sheets/bits-cheat-sheet.pdf",
     "Untitled.base",
     "Synctest tab.md",
-    "Neural networks(1).pdf",
     "Ggg.md",
     "Pasted image 20260615032029.png",
     "Pasted image 20260615032031.png",
@@ -220,11 +211,6 @@
     "conflict-files-obsidian-git.md",
     "67677.md",
     "SyncTest2.md",
-    "67.md",
-    "cheat sheets/system-design.pdf",
-    "cheat sheets/STL Quick Reference 1.29.pdf",
-    "cheat sheets/python-cheat-sheet-v1.pdf",
-    "cheat sheets/Java Fundamentals Cheatsheet.pdf",
-    "cheat sheets/git-cheat-sheet-education.pdf"
+    "67.md"
   ]
 }

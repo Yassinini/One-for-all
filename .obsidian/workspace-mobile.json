@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Calculus/Limits/Summary .3.pdf"
+                "file": "Calculus/Limits/1.3 Properties of Limits/Examples & Solving.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Summary .3"
+              "title": "Examples & Solving"
             }
           }
         ]
@@ -178,21 +178,26 @@
   },
   "active": "f7be23914976de81",
   "lastOpenFiles": [
-    "Calculus/Index.md",
-    "Calculus/Limits/Summary .3.pdf",
-    "Calculus/Calc 1.pdf",
-    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
-    "Linear Algebra/Intro to Applied Linear Algebra.pdf",
-    "/Solving.md",
-    "/Linear Algebra/Intro to Applied Linear Algebra.pdf",
+    "Calculus/Limits/1.3 Properties of Limits/Examples & Solving.pdf",
+    "/Calculus/Main Book.pdf",
+    "/Calculus/Limits/1.4 One Sided Limits/1.4 One sided Limits.md",
+    "/Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
+    "/Calculus/Limits/1.2 Epsilon-Delta Limits/1.2 Epsilon-Delta.md",
     "/Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
+    "/Calculus/Index.md",
+    "/Handwritten.md",
+    "/Calculus/Limits/1.3 Properties of Limits/Handwritten Notes.pdf",
+    "/Calculus/Limits/1.1 Intro to Limits/Handwritten.pdf",
+    "/Calculus/Limits/1.4 One Sided Limits",
+    "/Calculus/Limits/1.3 Properties of Limits",
+    "/Calculus/Limits/1.2 Epsilon-Delta Limits",
     "/Calculus/Limits/1.1 Intro to Limits",
     "/Calculus/Limits",
-    "/Calculus/Index.md",
-    "/Calculus/Calc 1.pdf",
     "/Calculus",
-    "Linear Algebra",
-    "/Linear Algebra",
+    "Calculus/Index.md",
+    "Calculus/Limits/Summary .3.pdf",
+    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
+    "/Solving.md",
     "Solving.md",
     "Calculus/Limits/Pasted image 20260615141806.png",
     "Calculus/Limits/1.1 Limits.md",
@@ -213,10 +218,6 @@
     "/Pasted image 20260615032032.png",
     "/Pasted image 20260615032031.png",
     "/Pasted image 20260615032029.png",
-    "Ggg.md",
-    "SyncTest2.md",
-    "Synctest tab.md",
-    "README.md",
-    "/SyncTest2.md"
+    "Ggg.md"
   ]
 }

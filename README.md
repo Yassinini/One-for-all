@@ -7,11 +7,9 @@
 There will be an Index.md file for every big folder/subject found here that lead to other files like a tree yet to be drawn. 
 
 # Hub Index
-
-##  Mathematics
 * [Calculus](./Calculus/Index.md)
   * [Main Textbook](./Calculus/Main_Book.pdf)
-* [Linear Algebra](./Linear%20Algebra/)  ## 💻 Computer Science & ML
+* [Linear Algebra](./Linear%20Algebra/)
 * [Coding Interview University](./Coding-Interview%20uni/Overview.md)
   * [Study Checklist](./Coding-Interview%20uni/Study%20Checklist.md)
   * [Programming Language Resources](./Coding-Interview%20uni/programming-language-resources.md)

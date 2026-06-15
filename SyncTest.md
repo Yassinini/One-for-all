@@ -1,1 +1,0 @@
-![](Pasted%20image%2020260615032029.png)![](Pasted%20image%2020260615032031.png)![](Pasted%20image%2020260615032032.png)![](Pasted%20image%2020260615032034.png)hiiiiiii

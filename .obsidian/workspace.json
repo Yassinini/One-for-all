@@ -11,14 +11,12 @@
             "id": "be2a839c19b4019e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Calculus/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Linear Algebra/Intro to Applied Linear Algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-file-text",
+              "title": "Intro to Applied Linear Algebra"
             }
           },
           {
@@ -211,8 +209,8 @@
   },
   "active": "be2a839c19b4019e",
   "lastOpenFiles": [
-    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
     "Calculus/Index.md",
+    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
     "Calculus/Calc 1.pdf",
     "Linear Algebra/Intro to Applied Linear Algebra.pdf",
     "Calculus/Limits/1.1 Intro to Limits/Summary.pdf",

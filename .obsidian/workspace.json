@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff265391db84cee6",
+        "id": "c351a2c0ba92f59e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f8a05f57495396d",
+            "id": "3b47c426b8d9314a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Index.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Index"
             }
           }
         ]
@@ -165,8 +169,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -186,22 +190,25 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f8a05f57495396d",
+  "active": "3b47c426b8d9314a",
   "lastOpenFiles": [
+    "Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
     "Calculus/Main_Book.pdf",
+    "Calculus/Limits/1.3 Properties of Limits/Handwritten Notes.pdf",
+    "Calculus/Index.md",
+    "Excalidraw/Drawing 2026-06-15 19.38.26.excalidraw.md",
+    "Excalidraw",
     "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
-    "Coding-Interview uni/Overview.md",
     "README.md",
     "Linear Algebra/Intro to Applied Linear Algebra.pdf",
+    "Coding-Interview uni/Overview.md",
     "Coding-Interview uni/Study Checklist.md",
-    "Calculus/Index.md",
     "Coding-Interview uni/programming-language-resources.md",
     "Coding-Interview uni/cheat sheets/big-o-cheatsheet.pdf",
-    "Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
-    "Calculus/Limits/1.3 Properties of Limits/Handwritten Notes.pdf",
     "Calculus/Limits/1.3 Properties of Limits/Examples+Solving.pdf",
     "Examples-&-Solving.pdf.md",
     "Main_Book.pdf.md",
@@ -212,7 +219,6 @@
     "Calculus/Limits/1.2 Epsilon-Delta Limits/1.2 Epsilon-Delta.md",
     "Calculus/Limits/1.4 One Sided Limits",
     "Calculus/Limits/1.3 Properties of Limits",
-    "Calculus/Limits/1.2 Epsilon-Delta Limits",
     "Solving.md",
     "Synctest tab.md",
     "Ggg.md",

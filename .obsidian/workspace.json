@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Study Plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9f72dc072e18b465",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Study Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Study Plan"
             }
           }
         ],
@@ -185,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +202,7 @@
   },
   "active": "dc3ee1c89dd334fa",
   "lastOpenFiles": [
+    "Overview.md",
     "programming-language-resources.md",
     "Study Plan.md",
     "Coding-InterviewUni",

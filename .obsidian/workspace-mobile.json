@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bd3a3ed4aecfd9",
+        "id": "d96f2f8973c78a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b009c27fe7bc71",
+            "id": "7f79a93f768b6964",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Calculus/Limits/Sum.pdf"
+                "file": "Calculus/Limits/Summary .3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Sum"
+              "title": "Summary .3"
             }
           }
         ]
@@ -176,23 +176,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b009c27fe7bc71",
+  "active": "f7be23914976de81",
   "lastOpenFiles": [
-    "Calculus/Limits/Solving.pdf",
-    "Calculus/Limits/Sum.pdf",
+    "Calculus/Index.md",
+    "Calculus/Limits/Summary .3.pdf",
+    "Calculus/Calc 1.pdf",
+    "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
+    "Linear Algebra/Intro to Applied Linear Algebra.pdf",
+    "/Solving.md",
+    "/Linear Algebra/Intro to Applied Linear Algebra.pdf",
+    "/Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
+    "/Calculus/Limits/1.1 Intro to Limits",
+    "/Calculus/Limits",
+    "/Calculus/Index.md",
+    "/Calculus/Calc 1.pdf",
+    "/Calculus",
+    "Linear Algebra",
+    "/Linear Algebra",
+    "Solving.md",
     "Calculus/Limits/Pasted image 20260615141806.png",
     "Calculus/Limits/1.1 Limits.md",
-    "Calculus/Limits/Calc-limits(2).pdf",
     "Coding-Interview uni/Overview.md",
     "Coding-Interview uni/programming-language-resources.md",
-    "Coding-Interview uni/cheat sheets/system-design.pdf",
-    "Coding-Interview uni/cheat sheets/python-cheat-sheet-v1.pdf",
-    "Coding-Interview uni/cheat sheets/git-cheat-sheet-education.pdf",
-    "Coding-Interview uni/cheat sheets/bits-cheat-sheet.pdf",
-    "Coding-Interview uni/cheat sheets/big-o-cheatsheet.pdf",
-    "Coding-Interview uni/cheat sheets/STL Quick Reference 1.29.pdf",
-    "Coding-Interview uni/cheat sheets/Java Fundamentals Cheatsheet.pdf",
-    "Coding-Interview uni/cheat sheets/Cpp_reference.pdf",
     "Coding-Interview uni/Study Guide.md",
     "/Coding-Interview uni/Overview.md",
     "/Coding-Interview uni/programming-language-resources.md",
@@ -212,8 +217,6 @@
     "SyncTest2.md",
     "Synctest tab.md",
     "README.md",
-    "/SyncTest2.md",
-    "67.md",
-    "SyncTest.md"
+    "/SyncTest2.md"
   ]
 }

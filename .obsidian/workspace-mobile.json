@@ -11,12 +11,14 @@
             "id": "7f79a93f768b6964",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Calculus/Limits/1.3 Properties of Limits/Examples & Solving.pdf"
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Examples & Solving"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -142,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calculus/Limits/Quick note.pdf",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -173,29 +175,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "7f79a93f768b6964",
   "lastOpenFiles": [
-    "Calculus/Limits/1.3 Properties of Limits/Examples & Solving.pdf",
-    "/Calculus/Main Book.pdf",
+    "Excalidraw/Drawing 2026-06-15 19.38.26.excalidraw.md",
+    "README.md",
+    "Excalidraw",
+    "Calculus/Limits/1.1 Intro to Limits/Handwritten.pdf",
+    "/Calculus/Main_Book.pdf",
+    "/README.md",
+    "/Coding-Interview uni/Overview.md",
     "/Calculus/Limits/1.4 One Sided Limits/1.4 One sided Limits.md",
-    "/Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
-    "/Calculus/Limits/1.2 Epsilon-Delta Limits/1.2 Epsilon-Delta.md",
-    "/Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
-    "/Calculus/Index.md",
-    "/Handwritten.md",
-    "/Calculus/Limits/1.3 Properties of Limits/Handwritten Notes.pdf",
-    "/Calculus/Limits/1.1 Intro to Limits/Handwritten.pdf",
     "/Calculus/Limits/1.4 One Sided Limits",
-    "/Calculus/Limits/1.3 Properties of Limits",
-    "/Calculus/Limits/1.2 Epsilon-Delta Limits",
+    "/Calculus/Limits/1.3 Properties of Limits/1.3 Properties of Limits.md",
+    "/Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
     "/Calculus/Limits/1.1 Intro to Limits",
+    "/Calculus/Index.md",
+    "/Coding-Interview uni/Study Checklist.md",
+    "/Calculus/Limits/1.3 Properties of Limits/Examples+Solving.pdf",
+    "/Coding-Interview uni",
+    "/Calculus/Limits/1.3 Properties of Limits",
     "/Calculus/Limits",
     "/Calculus",
+    "/Calculus/Limits/1.2 Epsilon-Delta Limits/1.2 Epsilon-Delta.md",
+    "/Handwritten.md",
     "Calculus/Index.md",
-    "Calculus/Limits/Summary .3.pdf",
     "Calculus/Limits/1.1 Intro to Limits/1.1 Limits.md",
     "/Solving.md",
     "Solving.md",
@@ -204,7 +211,6 @@
     "Coding-Interview uni/Overview.md",
     "Coding-Interview uni/programming-language-resources.md",
     "Coding-Interview uni/Study Guide.md",
-    "/Coding-Interview uni/Overview.md",
     "/Coding-Interview uni/programming-language-resources.md",
     "/Coding-Interview uni/Study Guide.md",
     "Study Plan.md",
@@ -212,12 +218,9 @@
     "Overview.md",
     "programming-language-resources.md",
     "/Overview.md",
-    "/Study Plan.md",
-    "/SyncTest.md",
     "/Pasted image 20260615032034.png",
     "/Pasted image 20260615032032.png",
     "/Pasted image 20260615032031.png",
-    "/Pasted image 20260615032029.png",
-    "Ggg.md"
+    "/Pasted image 20260615032029.png"
   ]
 }
